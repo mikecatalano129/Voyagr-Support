@@ -17,3 +17,4 @@ You can edit your profile, change your password, leave a sailing, or delete your
 ## Safety
 
 Voyagr Social includes tools for reporting inappropriate posts, messages, and profiles. Reports are reviewed to help keep the community safe.
+Last updated: July 19, 2026
